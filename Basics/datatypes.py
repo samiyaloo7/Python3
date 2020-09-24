@@ -71,6 +71,8 @@ string = " Samiyalization "
 # But there is method to change the part of the string.
 string = string.replace(" ", "_")
 print("\nstring after reassignment : ",string)
+# -concatination.
+string = " samiyal " + " yadav" # Using (+) we can concatinate the string.(like other sequence types)
 
 # -checking charater is in string.
 if("sam" in string) :
